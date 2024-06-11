@@ -1,0 +1,6 @@
+LocationXYZ,BlockType,FeatureType,Sequence,BombID,FuseStartTime,ChainedID
+28 52 56,block_bomb_standard,Bomb,R,1,4,NONE
+14 52 55,block_bomb_standard,Bomb,G,2,3,NONE
+40 52 56,block_bomb_standard,Bomb,BGR,3,5,NONE
+33 52 64,block_bomb_standard,Bomb,GR,4,3,NONE
+22 52 63,block_bomb_standard,Bomb,RB,5,4,NONE
